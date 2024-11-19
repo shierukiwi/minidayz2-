@@ -1,2 +1,2 @@
-# minidayz2plus
+# minidayzplus2
 https://shierukiwi.github.io/minidayz2plus/
