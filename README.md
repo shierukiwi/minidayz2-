@@ -1,2 +1,2 @@
-# minidayz
+# minidayz2plus
 minidayz2+
